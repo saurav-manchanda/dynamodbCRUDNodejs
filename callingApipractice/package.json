@@ -1,0 +1,19 @@
+{
+  "name": "callingApipractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "callingApi.js",
+  "dependencies": {
+    "aws-sdk": "^2.358.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nodemailer": "^4.6.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
